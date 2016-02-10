@@ -1,8 +1,8 @@
 Setup
 ====
 
-* Google Project create.
-* Authentication -> OAuth 2.0 -> web client
+* create Google Project.
+* Authentication -> OAuth 2.0 -> Web Client
 
 ```
 vi index.php callback.php
